@@ -83,3 +83,4 @@ for jam in playlist[:3]:
 # # Now create a slice or subset of your list of favorite shows, then run a loop through your slice:
 for shows in faveshows [:3]:
   print(shows)
+  #
